@@ -1,0 +1,14 @@
+- Header
+- - Logo
+- - Nav Items
+- Body
+- - Search
+- - RestuarantContainer
+- - ResturantCard
+-     - Img
+-     - Name of Res, Star Rating, Cuisine, Delevery time
+- Footer
+- - Copyright
+- - Links
+- - Address
+- - Contact
